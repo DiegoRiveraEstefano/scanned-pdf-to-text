@@ -1,0 +1,5 @@
+fire==0.7.0
+opencv-python==4.11.0.86
+pillow==11.2.1
+pydantic==2.11.4
+pytesseract==0.3.13
